@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+Cargo.lock
+*.log
+.DS_Store
+.github/workflows/
+cuda/tests/
+assets/argon2d_vectors.json
+cuda/libqms_cuda.so
