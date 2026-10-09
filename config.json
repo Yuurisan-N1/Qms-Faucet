@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "sleep_seconds": 3600,
+    "workers": 0,
+    "target_qms": 1.0
+  }
+}
